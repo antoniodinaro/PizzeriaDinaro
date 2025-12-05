@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="castello.css">
+<title>Il Castello Reale di Racconigi</title>
+</head>
+<body>
+<div id="wrapper">
+<header>Il castello reale di racconigi
+<img src="file:///C:/Users/Admin/OneDrive/Desktop/CASTELLO%20DI%20RACCONIGI/img/logo-castello.png">
+
+</header>
+</div>
+<div id="container">
+<nav>
+    <li>home</li>
+    <li>il parco</li>
+</nav>
+<main>
+    <figure>
+        <img src="file:///C:/Users/Admin/OneDrive/Desktop/CASTELLO%20DI%20RACCONIGI/img/castello1.png" style="width:100%">
+        <figcaption>Veduta del castello di Racconigi</figcaption>
+    </figure>
+    
+
+<h1>Castello Reale di Racconigi</h1>
+<p>I castello reale di Racconigi è situato a Racconigi, in provincia di Cuneo ma poco
+    distante da Torino.
+    
+    Nel corso della sua quasi millenaria storia ha visto numerosi rimaneggiomenti e
+    divenne di proprietà dei Savoia a partire dalla seconda metà del XIV secolo. In saguito
+    fu resicenza ufficiale del ramo dei Savoia-Carignano e successivamente fu eletto sede
+    delle "reali villeggiature" della famiglia reale dei re di Sardegna (e poi d'italia) nei mesi
+    estivi e autunnali.</p>
+<h2>Storia</h2>
+<p>Sono note le seguenti notizie sulla storia del castello:
+    1. La fortificazione presente a Racconigi risale al XI secolo, epoca in cui il territorio
+    era parte della Marca di Torino e dove Bemardino di Susa edificò o riadattò
+    un'antica casaforte, sui resti di un precedente monastero.
+    2. Nel 1091, alla morte della marchesa Adelaide di Susa, i territori furono occupati dal nipote Bonifacio del Vasto e il feudo di
+    Racconigi entrò quindi a far parte dei possedimenti dei marchesi di Saluzzo,
+    
+    La trasformazione neoclassica (XVIII secolo)
+    A partire dal 1757 Ludovico Luigi vittorio di Carignano commissiono all'architetto Giovanni Battista Borra un notevole
+    rimaneggiamento secondo il gusto neoclassico tipico dell'epoca, a cui si deve il rifacimento della facciata meridionale con
+    l'aggiunta del protiro tetrastilo con colonne corinzie sormontate dal frontone triangolare dentellato di ispirazione palladiana.
+    
+    Gli interventi intemni, invece, interessarono il salone d'Ercole, l'attigua Sala di Diana e l'allestimento delle stanze dell'Appartamento
+    Cinese, decorate con preziose carte da parati in carta di riso.</p>
+<h3>Interni del castello</h3>
+<table>
+    <tr>
+      <th>Nome dell'interno</th>
+      <th>Descrizione</th>
+    <tr>
+      <td>Il salone d'Ercole</td>
+      <td>Dedicato al mito di Ercole, questo ambiente è frutto dell'intervento del 1757 ad opera dell'architetto
+        Giovanni Battista Borra</td>
+    </tr>
+    <td>a sala di Diona</td>
+      <td>Utilizzata come atrio di ingresso alla residenza, la sala di Diana è caratterizzata dai quattro grandi
+        medaglioni che raffigurano il mito della dea della caccio.</td>
+    </tr>
+    <td>Appartamento Cinese</td>
+      <td>Le sale dell'Appartamento Cinese facevano parte di un più ampio spazio nominato foresteria reale.</td>
+    </tr>
+  </table>
+
+</main>
+
+</div>
+<footer>
+<p>Sito web "il castello di racconigi"</p>
+<p>Esercizio di preparazione verifica</p>
+</footer>
+
+
+</body>
+</html>
